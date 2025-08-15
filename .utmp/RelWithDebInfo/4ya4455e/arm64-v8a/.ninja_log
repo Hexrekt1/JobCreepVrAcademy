@@ -1,0 +1,11 @@
+# ninja log v5
+30	282	7569208319907589	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	107c816a378cd82d
+283	474	7569208321260803	C:/Users/e2982/OneDrive/Desktop/26.12.2024 - Academy/JobCreepAcademy-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4ya4455e/obj/arm64-v8a/libswappywrapper.so	c5cc427319158b91
+12	714	7569208324144489	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	d51d142483231cbc
+8	732	7569208324314036	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	37fbc969163c27c7
+21	771	7569208324738542	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	9a2f6ca16b576bf5
+25	848	7569208325538307	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	cb75983834446d37
+0	884	7569208325908850	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	da116ebe8cab99c
+16	1008	7569208327158611	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f6086616d63acef1
+5	1074	7569208327807964	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	34061459cfba4537
+1074	1200	7569208328722485	C:/Users/e2982/OneDrive/Desktop/26.12.2024 - Academy/JobCreepAcademy-main/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/4ya4455e/obj/arm64-v8a/libgame.so	1d9ae0a5a05b37a5

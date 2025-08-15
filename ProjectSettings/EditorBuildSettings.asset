@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/NewMarker.unity
+    guid: 58a73881a6aa9214980bafd4cdf131f7
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/PASTMARKER.unity
+    guid: 29a8592993f43e14791c74e7050db978
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: a932b33d4d9881e448bddf36264b81d6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 610a7fe86ee059c4dbbab93f911cdb22, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7d2bb178c2d1af6438a60a7bc13aa0a5, type: 2}
+  m_UseUCBPForAssetBundles: 0
